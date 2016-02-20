@@ -1,0 +1,22 @@
+{
+  "name": "jasmine-assert-html",
+  "description": "Matcher for Jasmine which matches the equvilancy of two HTML strings after normalization",
+  "main": "lib/jasmine-assert-html.js",
+  "authors": [
+    "Deshi Rahim"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jasmine",
+    "html"
+  ],
+  "homepage": "https://github.com/deshiknaves/jasmine-assert-html",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
