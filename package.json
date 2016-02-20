@@ -1,0 +1,32 @@
+{
+  "name": "jasmine-assert-html",
+  "version": "1.0.0",
+  "description": "Matcher for Jasmine which matches the equvilancy of two HTML strings after normalization",
+  "main": "lib/jasmine-assert-html.js",
+  "scripts": {
+    "test": "gulp tests"
+  },
+  "files": [
+    "lib/"
+  ],
+  "keywords": [
+    "jasmine",
+    "html"
+  ],
+  "author": {
+    "name": "Deshi Rahim",
+    "email": "deshi@deshiknaves.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deshiknaves/jasmine-assert-html.git"
+  },
+  "bugs": {
+    "url": "http://github.com/deshiknaves/jasmine-assert-html/issues"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jasmine-browser": "^1.0.0"
+  }
+}
