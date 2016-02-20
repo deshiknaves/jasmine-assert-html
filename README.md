@@ -8,7 +8,7 @@ This is a port of JamesMGreene's [qunit-assert-html](https://github.com/JamesMGr
 it('should match html', function() {
   var actual = '<span style="display: none;" class="name">true</span>';
   var expected = '<span class="name" style="display: none">true</span>';
-  expect(actual).htmlEqual(expected);
+  expect(actual).htmlToBeEqual(expected);
 });
 ```
 ## License
