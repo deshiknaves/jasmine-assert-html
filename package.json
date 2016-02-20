@@ -4,7 +4,7 @@
   "description": "Matcher for Jasmine which matches the equvilancy of two HTML strings after normalization",
   "main": "lib/jasmine-assert-html.js",
   "scripts": {
-    "test": "gulp tests"
+    "test": "gulp test"
   },
   "files": [
     "lib/"
