@@ -1,3 +1,4 @@
+require('any-promise/register')('bluebird')
 const gulp = require('gulp');
 const jasmineBrowser = require('gulp-jasmine-browser');
 

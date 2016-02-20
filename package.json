@@ -26,6 +26,7 @@
     "url": "http://github.com/deshiknaves/jasmine-assert-html/issues"
   },
   "devDependencies": {
+    "bluebird": "^3.3.1",
     "gulp": "^3.9.1",
     "gulp-jasmine-browser": "^1.0.0"
   }
