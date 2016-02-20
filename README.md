@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/deshiknaves/jasmine-assert-html.svg?branch=master)](https://travis-ci.org/deshiknaves/jasmine-assert-html)
+
 # Jasmine Assert Html
 Matcher for Jasmine which matches the equvilancy of two HTML strings after normalization
 
