@@ -1,7 +1,7 @@
 # Jasmine Assert Html
 Matcher for Jasmine which matches the equvilancy of two HTML strings after normalization
 
-This is a port of JamesMGreene's [qunit-assert-html](https://github.com/JamesMGreene/qunit-assert-html). All the cross browser compaitibility has been removed as this will run on Phantomjs.
+This is a port of JamesMGreene's [qunit-assert-html](https://github.com/JamesMGreene/qunit-assert-html) for Jasmine. All the cross browser compaitibility has been removed as this will run on Phantomjs.
 
 ## Usage
 ```js
