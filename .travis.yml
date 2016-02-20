@@ -4,6 +4,7 @@ node_js:
 before_install:
   - npm update -g npm
   - npm install -g gulp
+  - npm install -g promise
   - npm install -g gulp-jasmine-browser
 
 sudo: false
